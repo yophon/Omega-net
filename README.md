@@ -1,2 +1,8 @@
 # Omega-net
-a simulator of omega net
+一个omega网络模拟器，能自定义网络规模，模拟单播、组播、广播路径并生成图片。
+
+
+TODO:
+-冲突检测
+-多对多组播模拟
+-更改绘图方式，让它更自适应
