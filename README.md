@@ -9,6 +9,7 @@
 -冲突检测<br>
 -多对多组播模拟<br>
 -更改绘图方式，让它更自适应<br>
+-打包，使没有python环境的用户也可一键使用
 
 # References
 https://github.com/vijendra/Omega-network<br>:本项目参考该项目的omega.c文件，并将其改写为使用python实现
