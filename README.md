@@ -1,7 +1,7 @@
 # Omega-net
 一个omega网络模拟器，能自定义网络规模，模拟单播、组播、广播路径并生成图片。
 
-# quickstart
+# QuickStart
 除了README.md，项目目前包含两个文件，其功能相同，不过omega.ipynb的运行额外需要有Jupyter Notebook软件，而omega.py是常规的python文件。<br>
 运行需要一个包含numpy、matplotlib包的python3.11版本的环境，用户根据程序提示消息进行输入可以自定义网络输入规模和想要实现的连接，程序运行结束后会提供一张对应Omega网络的图片。<br>
 
